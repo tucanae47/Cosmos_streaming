@@ -19,13 +19,15 @@ The hard job is on guys here, thanks to them i was able to write this. :-)
 ## Usage:
 * install dependencies with easy_install, this will work straighforward on most linux machines, in macosx with macports you can install kind of fast
 libtorrent, but it could be a pain in some environments, as it was for me. 
-* turn an ipython console: 
-      from Cosmos_Streaming import Torrent_Cosmos
-      t=Torrent_Cosmos()
-      #search for torrent PB
-      t.searchForCosmos()
-      #select torrent item you want to play
-      t.selectItemAndPlay(0)
+* turn an ipython console:
+
+    
+    from Cosmos_Streaming import Torrent_Cosmos
+    t=Torrent_Cosmos()
+    #search for torrent PB
+    t.searchForCosmos()
+    #select torrent item you want to play
+    t.selectItemAndPlay(0)
 
 ## TODO:
 * become a pro torrent streaming api, like peerflix.
