@@ -23,7 +23,9 @@ libtorrent, but it could be a pain in some environments, as it was for me.
 ```python
     from Cosmos_Streaming import Torrent_Cosmos
     t=Torrent_Cosmos()
+    #search for available torrent and select the one you want to stream, is sorted by seeds
     t.searchForCosmos()
+    #play with mplayer for the moment
     t.selectItemAndPlay(0)
 ```
 ## TODO:
