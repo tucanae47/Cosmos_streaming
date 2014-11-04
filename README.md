@@ -1,7 +1,7 @@
 cosmos_streaming_torrent
 ========================
 
-Python stream torrents PB: recently i met Cosmos Space Time Odyssey and i fall in love of it, most of the times im bussy so i want to watch Cosmos at the time i need without waiting torrents to download normal way, nor waiting for Famous TV Channels Schedules, so i did this script, i hope to make it better with the time.
+Python stream torrents PB
 
 ## Requirements
 * python 2.7.6
